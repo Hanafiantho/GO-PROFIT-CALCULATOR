@@ -1,0 +1,3 @@
+EBT :500000
+Profit :450000
+Ratio :  1
